@@ -1,6 +1,6 @@
 # Conversor de Moedas
 
-![Logo do Projeto](https://www.plastico.com.br/wp-content/uploads/2012/12/cambio.jpg)
+![Logo do Projeto](https://cdn1.gnarususercontent.com.br/6/421189/9d4c9ba6-5b7c-4339-8055-c30d0e57eb99.png)
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Version](https://img.shields.io/badge/version-1.0-blue)
